@@ -6,7 +6,7 @@
 
 💻 I am currently working as a java backend developer in a software company.
 
-⚙️ the technologies I use are: java springboot, restful api's, security, sql, nosql, microservices, oop, git
+⚙️ the technologies I use are: java springboot, restful api's, security, sql, nosql, microservices, oop, git, design pattern
 
 💬 ask me about anything, i am happy to help;
 
