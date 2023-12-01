@@ -1,4 +1,4 @@
-🔭 hi, i'm taha gul, a passionate self-taught backend developer and a computer engineering student from turkey. my passion for software lies with dreaming up ideas and making them come true with elegant architecuture. i take great care in the experience, architecture, and code quality of the things I build.
+🔭 hi, i'm taha gul, a passionate self-taught backend developer. my passion for software lies with dreaming up ideas and making them come true with elegant architecuture. i take great care in the experience, architecture, and code quality of the things I build.
 
 🛰️ in 2019 and 2020, I participated in teknofest as the captain of the b-dispate space team within the scope of the satellite competition with my team. my responsibilities during this period are : c/c++ , java, oop, data structure, embedded software, flight software and project management.
 
