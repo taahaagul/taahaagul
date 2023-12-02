@@ -2,11 +2,13 @@
 
 🛰️ in 2019 and 2020, I participated in teknofest as the captain of the b-dispate space team within the scope of the satellite competition with my team. my responsibilities during this period are : c/c++ , java, oop, data structure, embedded software, flight software and project management.
 
-📄 I have a scientific paper published on avionics software for model satellite systems. journal of aeronautıcs and space technologies issn : 1304-0448 / vol 13 no:1 jan2020
+📄 my expertise in avionics software for model satellite systems is showcased in a scientific paper i
+published in the journal of aeronautics and space technologies (issn: 1304-0448, Vol 13, no:1, jan
+2020).
 
-💻 I am currently working as a java backend developer in a software company.
+💻 i'm currently working as a java backend developer in a software company.
 
-⚙️ the technologies I use are: java springboot, restful api's, security, sql, nosql, microservices, oop, git, design pattern
+⚙️ the technologies I use are:  java springboot, restful api's, microservices, spring cloud, docker, spring security, jwt, keycloak, sql, nosql, oop, git, design pattern
 
 💬 ask me about anything, i am happy to help;
 
