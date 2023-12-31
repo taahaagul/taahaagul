@@ -8,7 +8,7 @@ published in the journal of aeronautics and space technologies (issn: 1304-0448,
 
 💻 i'm currently working as a java backend developer in a software company.
 
-⚙️ the technologies I use are:  java springboot, restful api's, microservices, spring cloud, docker, spring security, jwt, keycloak, sql, nosql, oop, git, design pattern
+⚙️ the technologies I use are:  java springboot, restful api's, microservices, spring cloud, docker, message broker, spring security, jwt, keycloak, sql, nosql, oop, git, design pattern
 
 💬 ask me about anything, i am happy to help;
 
